@@ -1,0 +1,39 @@
+
+[
+    {
+        "id": 1,
+        "image": "https://naszedrinki.pl/wp-content/uploads/2013/12/blue-kamikaze.jpg",
+        "title": "Blue Kamikaze",
+        "type": "alcohol",
+        "glass": "Shot glass",
+        "instructions": ["Add ice cubes to the shaker.", "Pour all of the ingredients into the shaker and shake for a couple of seconds.", "Pour the drink through a sieve into the glass"],
+        "ingredients": ["50ml of vodka", "50ml of blue curacao liqueur", "50ml of lemon juice", "ice cubes"]
+    },
+    {
+        "id": 2,
+        "image": "https://naszedrinki.pl/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2016/12/Nolan.jpg.webp",
+        "title": "Nolan",
+        "type": "alcohol",
+        "glass": "Highball glass",
+        "instructions": ["Pour all of the ingredients into the glass and stir shortly."],
+        "ingredients": ["30ml of gin", "15ml of malibu rum", "orange juice(to fill the glass)"]
+    },
+    {
+        "id": 3,
+        "image": "https://naszedrinki.pl/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2016/04/Flaming-Jesse-1170x777.jpeg.webp",
+        "title": "Flaming Jesse",
+        "type": "alcohol",
+        "glass": "Collins glass",
+        "instructions": ["Add some ice cubes and all of the ingredients to the shaker.", "Strongly shake.", "Pour the drink into the glass.", "Add a slice of orange for decoration."],
+        "ingredients": ["30ml of malibu rum", "15ml of vodka", "15ml of irish Bailey's liqueur", "ice cubes", "about 120-170ml of orange juice", "(optionally) a slice of orange"]
+    },
+    {
+        "id": 4,
+        "image": "https://naszedrinki.pl/wp-content/uploads/2016/12/Feel-Like-Holiday.jpg",
+        "title": "Feel Like Holiday",
+        "type": "alcohol",
+        "glass": "Flute glass",
+        "instructions": ["Mix vodka and grenadine with some ice cubes.", "Pour the mixed liquor into the glass without the ice cubes.", "Add the champagne."],
+        "ingredients": ["100ml of champagne", "10ml of vodka", "10ml of grenadine", "ice cubes"]
+    }
+]
